@@ -1,4 +1,4 @@
-
+.ipynb_checkpoints
 *.sh
 *.sh.*
 
@@ -6,3 +6,4 @@ visualization
 logs
 models
 datapack_images
+
