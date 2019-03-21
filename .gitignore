@@ -1,0 +1,8 @@
+
+*.sh
+*.sh.*
+
+visualization
+logs
+models
+datapack_images
